@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="dialog_text_show">Show</string>
+    <string name="dialog_text_cancel">Cancel</string>
+    <string name="msg_cancel_conversion_currency">Canceled Currency Conversion</string>
+    <string name="btn_label_view_all_exchange_rate">View All Exchange Rate</string>
+    <string name="title_dialog_conversion_result">Conversion Result</string>
+    <string name="dialog_btn_ok">OK</string>
+</resources>
