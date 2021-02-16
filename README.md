@@ -3,6 +3,7 @@
 Demonstrate Currency Layer API with 
 
 * RxJava
+* Android Fast Network
 * Kotlin
 * MVVM with Arch Component
 
